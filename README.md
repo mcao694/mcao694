@@ -2,7 +2,7 @@
 
 I'm a budding scientist, lifelong learner, and creative at heart. 🌱
 
-I'm currently a **fourth-year undergraduate student** studying **Environmental Science** and **Data Analytics** at **Dickinson College**. My passion lies in exploring the intersections of **sustainability**, **social justice**, and **big tech/data**. Through my interdisciplinary education, I've gained opportunities to delve into these topics and expand my knowledge.
+I'm currently a **fourth-year undergraduate student** studying **Environmental Science** and **Data Analytics** at **Dickinson College**. My passion lies at the intersections of **sustainability**, **social justice**, and **big tech/data**. Through my interdisciplinary education, I've gained opportunities to delve into these topics and expand my knowledge.
 
 ## 🎯 Key Projects & Experience
 
@@ -20,11 +20,11 @@ As part of my undergraduate research, I spent two semesters studying the spatiot
 - When and where were they applied?
 - How much insecticide was used?
 
-The findings from this research contribute to a larger, state-wide effort to:
+The findings from this research contribute to a larger effort to:
 
 - Characterize insecticide usage across different land covers in Pennsylvania.
 - Identify potential hazards to pollinators like bees.
-- Model and predict insecticide usage trends across the United States, enabling better-informed decision-making for agricultural and environmental policies.
+- Model and predict insecticide usage trends across the United States
 
 ## 🛠️ Languages & Tools Used
 
