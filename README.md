@@ -8,7 +8,7 @@ I recently earned my BS in Environmental Science and Data Analytics from Dickins
 
 ### Forest Insecticides Research Project (Undergrad Honors Thesis)
 
-In collaboration with Dr. Maggie Douglas of Dickinson College, I looked at insecticide application patterns in public PA forests and possible hazards on pollinators. With application data from the PA DCNR, we cleaned, visualized, mapped, and generated summary statistics on the types of insecticides applied, total area treated, intensity in which they were treated, and toxic load on honeybees. These findings were compared to agricultural statistics (see Douglas et al. 2022) to gain a better understanding of pest management in public forests and its effects on pollinator populations. 
+In collaboration with Dr. Maggie Douglas of Dickinson College, I looked at insecticide application patterns in public PA forests and possible hazards on pollinators. With application data from the PA DCNR, we cleaned, visualized, mapped, and generated summary statistics on the types of insecticides applied, total area treated, intensity in which they were treated, and toxic load on honeybees. These findings were compared to agricultural statistics (see Douglas et al. 2022) to gain a better understanding of pest management in public forests and hazards on pollinator populations. 
 
 Update: Our findings from PA forests will be combined with an analysis of WI forests and developed into a manuscript for publication.
 
