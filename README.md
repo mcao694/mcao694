@@ -1,10 +1,10 @@
 # 👋 Hey there, it's Michelle!
 
-I'm a budding scientist, lifelong learner, and creative at heart. 🌱
+Experienced Data Analyst & Environmental Researcher with keen interests in regenerative forestry and agriculture, natural resource conservation, and sustainable water management. 
 
-I'm currently a **fourth-year undergraduate student** studying **Environmental Science** and **Data Analytics** at **Dickinson College**. My passion lies at the intersections of **sustainability**, **social justice**, and **big tech/data**. Through my interdisciplinary education, I've gained opportunities to delve into these topics and expand my knowledge.
+I recently earned my BS in Environmental Science and Data Analytics from Dickinson College. I’m passionate about community-based science, applied research, and science outreach to engage diverse stakeholders and promote social justice, while addressing environmental challenges. My work revolves around leveraging technical tools and crunching numbers to communicate immportant findings to key stakeholders and the public. I'm eager to help make science more accessible and to make a difference in the communities we serve.
 
-## 🎯 Key Projects & Experience
+## 🎯 Research Projects & Experiences
 
 ### Cornell Tech's Break Through Tech AI Program
 As part of this program, I completed a **Machine Learning Foundation** course and had the incredible opportunity to collaborate with **Nestlé** on a project titled:
