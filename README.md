@@ -6,6 +6,16 @@ I recently earned my BS in Environmental Science and Data Analytics from Dickins
 
 ## 🎯 Research Projects & Experiences
 
+### Forest Insecticides Research Project (Undergrad Honors Thesis)
+
+In collaboration with Dr. Maggie Douglas of Dickinson College, I looked at insecticide application patterns in public PA forests and possible hazards on pollinators. With application data from the PA DCNR, we cleaned, visualized, mapped, and generated summary statistics on the types of insecticides applied, total area treated, intensity in which they were treated, and toxic load on honeybees. These findings were compared to agricultural statistics (see Douglas et al. 2022) to gain a better understanding of pest management in public forests and its effects on pollinator populations. 
+
+Update: Our findings from PA forests will be combined with an analysis of WI forests and developed into a manuscript for publication.
+
+### Methane Emissions from Dairy Cattle Research Project (NSF-REU)
+
+In collaboration with Dr Hasan Seyyedhasani and Gian Putra, I 
+
 ### Cornell Tech's Break Through Tech AI Program
 As part of this program, I completed a **Machine Learning Foundation** course and had the incredible opportunity to collaborate with **Nestlé** on a project titled:
   
@@ -13,18 +23,7 @@ As part of this program, I completed a **Machine Learning Foundation** course an
 
 With the rise of wellness and clean eating trends, there is an increasing demand for healthy and tasty snacks that align with consumer preferences for both nutrition and flavor. As part of my collaboration with Nestlé in the Cornell Tech's Break Through Tech AI Program, our project aimed to leverage Natural Language Processing (NLP) techniques to generate novel flavor combinations for the rapidly growing healthy snack market.
 
-### Honors Thesis (Dickinson College - Department of Environmental Studies & Science)
-As part of my undergraduate research, I spent two semesters studying the spatiotemporal patterns of insecticide usage in Pennsylvania Forests with a specific focus on assessing potential hazards to bee populations. This project involved a combination of statistical analysis and Geographic Information System (GIS) tools to explore several key questions:
 
-- Which insecticides were applied?
-- When and where were they applied?
-- How much insecticide was used?
-
-The findings from this research contribute to a larger effort to:
-
-- Characterize insecticide usage across different land covers in Pennsylvania.
-- Identify potential hazards to pollinators like bees.
-- Model and predict insecticide usage trends across the United States
 
 ## 🛠️ Languages & Tools Used
 
