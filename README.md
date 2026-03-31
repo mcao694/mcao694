@@ -12,10 +12,6 @@ In collaboration with Dr. Maggie Douglas of Dickinson College, I looked at insec
 
 Update: Our findings from PA forests will be combined with an analysis of WI forests and developed into a manuscript for publication.
 
-### Methane Emissions from Dairy Cattle Research Project (NSF-REU)
-
-In collaboration with Dr Hasan Seyyedhasani and Gian Putra, I 
-
 ### Cornell Tech's Break Through Tech AI Program
 As part of this program, I completed a **Machine Learning Foundation** course and had the incredible opportunity to collaborate with **Nestlé** on a project titled:
   
