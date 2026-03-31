@@ -2,7 +2,7 @@
 
 Experienced Data Analyst & Environmental Researcher with keen interests in regenerative forestry and agriculture, natural resource conservation, and sustainable water management. 
 
-I recently earned my BS in Environmental Science and Data Analytics from Dickinson College. I’m passionate about community-based science, applied research, and science outreach to engage diverse stakeholders and promote social justice, while addressing environmental challenges. My work revolves around leveraging technical tools and crunching numbers to communicate immportant findings to key stakeholders and the public. I'm eager to help make science more accessible and to make a difference in the communities we serve.
+I earned my BS in Environmental Science and Data Analytics from Dickinson College. I’m passionate about community-based science, applied research, and science outreach to engage diverse stakeholders and promote social justice, while addressing environmental challenges. My work revolves around leveraging technical tools and crunching numbers to communicate immportant findings to key stakeholders and the public. I'm eager to help make science more accessible and to make a difference in the communities we serve.
 
 ## 🎯 Research Projects & Experiences
 
